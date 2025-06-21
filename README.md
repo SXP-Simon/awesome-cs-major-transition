@@ -1,6 +1,10 @@
 # awesome-ncu-cs-major-transition
 南昌大学大一下转专业转入计算机学科的相关攻略（含 24 25 真题 与 面试准备 ），转计科、大数据、软工、网安意向者可以参考。
 
+<div align="center">
+        <img src="https://count.getloli.com/@awesome-ncu-cs-major-transition?name=awesome-ncu-cs-major-transition&theme=capoo-2&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="count" />
+    </div>
+
 ## 注意
 
 备考时以NCU本年的文件为准！
